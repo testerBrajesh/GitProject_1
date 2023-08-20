@@ -7,6 +7,10 @@ public class TestGitDemo1 {
 	System.out.println("Commit On master 1 ");
 
 	
+	System.out.println("Create issue Commit On master 1 ");
+	
+	
+	
 	
 
 	
