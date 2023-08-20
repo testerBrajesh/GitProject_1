@@ -6,6 +6,8 @@ public class TestGitDemo1 {
 	
 	System.out.println("Commit On master 1 ");
 	
+
 	System.out.println("Update issue fixed On Sp_2 On master 1 ");
+
 	
 }}
